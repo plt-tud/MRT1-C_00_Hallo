@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>MRT1-C00_Hallo</name>
+	<name>MRT1-C_00_Hallo</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -39,7 +39,7 @@
 				</dictionary>
 				<dictionary>
 					<key>org.eclipse.cdt.make.core.buildLocation</key>
-					<value>${workspace_loc:/MRT1-C00_Hallo/Debug}</value>
+					<value>${workspace_loc:/MRT1-C_00_Hallo/Debug}</value>
 				</dictionary>
 				<dictionary>
 					<key>org.eclipse.cdt.make.core.useDefaultBuildCmd</key>
